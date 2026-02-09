@@ -1,0 +1,22 @@
+# Deep Learning Core
+torch>=2.0.0
+torchvision
+
+# Hugging Face & Qwen (The Brain)
+transformers
+accelerate
+qwen-vl-utils
+
+# Object Detection (The Eye)
+ultralytics
+
+# Visualization & Demo
+rich
+opencv-python
+pillow
+numpy
+streamlit
+
+# PDF Support
+pdf2image
+pymupdf
