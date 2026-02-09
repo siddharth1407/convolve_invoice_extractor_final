@@ -230,10 +230,6 @@ git push origin main
 docker build -t invoice-extractor .
 docker run -p 8501:8501 invoice-extractor
 ```
-
-### AWS/Azure/GCP
-See [RUN_APP.md](RUN_APP.md) for details
-
 ---
 
 ## 🤝 Contributing
