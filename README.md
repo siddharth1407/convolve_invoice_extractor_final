@@ -195,16 +195,6 @@ streamlit run app.py
 - ✈️ Offline deployment
 
 ---
-
-## 📚 Documentation
-
-- [PREPROCESSING_GUIDE.md](PREPROCESSING_GUIDE.md) - Image preprocessing details
-- [ARCHITECTURE.md](ARCHITECTURE.md) - System design
-- [RUN_APP.md](RUN_APP.md) - Deployment instructions
-- [PRESENTATION_GUIDE.md](PRESENTATION_GUIDE.md) - Demo walkthrough
-
----
-
 ## 🐛 Troubleshooting
 
 **CUDA out of memory:**
